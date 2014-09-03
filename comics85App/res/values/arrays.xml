@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="portadas">
+        <item>@drawable/pf100balas</item>
+        <item>@drawable/pfakira</item>
+        <item>@drawable/pfanimalman</item>
+        <item>@drawable/pfarkham</item>
+        </string-array>
+
+  
+</resources>

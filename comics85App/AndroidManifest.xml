@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.comics85app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.comics85app.InicioActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.comics85app.CategoriasActivity"
+            android:label="@string/title_activity_categorias" >
+        </activity>
+        <activity
+            android:name="com.example.comics85app.AtozActivity"
+            android:label="@string/title_activity_atoz" >
+        </activity>
+        <activity
+            android:name="com.example.comics85app.MenuActivity"
+            android:label="@string/title_activity_menu" >
+        </activity>
+        <activity
+            android:name="com.example.comics85app.CategoriaSeleccionadaActivity"
+            android:label="@string/title_activity_categoria_seleccionada" >
+        </activity>
+        <activity
+            android:name="com.example.comics85app.Los85Activity"
+            android:label="@string/title_activity_los85" >
+        </activity>
+        <activity
+            android:name="com.example.comics85app.ComicSelectedActivity"
+            android:label="@string/title_activity_comic_selected" >
+        </activity>
+        <activity
+            android:name="com.example.comics85app.DetallePortadaActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_detalle_portada"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+    </application>
+
+</manifest>

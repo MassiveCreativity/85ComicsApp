@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">85 Cómics</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titulo">Los Mejores 85 Cómics de la Historia</string>
+    <string name="cat1">Ciencia Ficción</string>
+    <string name="cat2">Cotidiano</string>
+    <string name="cat3">Historia</string>
+    <string name="cat4">Humor</string>
+    <string name="cat5">Aventuras</string>
+    <string name="cat6">Genero Negro</string>
+    <string name="cat7">Western</string>
+    <string name="cat8">Infantil</string>
+    <string name="cat9">Erótico</string>
+    <string name="cat10">Fantasia</string>
+    <string name="cat11">Terror</string>
+    <string name="cat12">Superhéroes</string>
+    <string name="title_activity_categorias">Categorías de Cómics</string>
+    <string name="az">Cómics A - Z</string>
+    <string name="title_activity_atoz">Cómics A - Z</string>
+    <string name="categorias">Categorías</string>
+    <string name="los85">Los 85</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_categoria_seleccionada">Categoría Seleccionada</string>
+    <string name="title_activity_los85">Los 85 Mejores Cómics</string>
+    <string name="title_activity_comic_selected">Cómic Seleccionado</string>
+    <string name="tituloComicSeleccionado">Titulo Comic Seleccionado</string>
+    <string name="descripcionComicSeleccionado">Descripcion Cómic Seleccionado.</string>
+    <string name="title_activity_detalle_portada">Portada</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
